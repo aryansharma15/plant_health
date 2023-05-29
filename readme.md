@@ -1,4 +1,4 @@
-# Project 6
+# Plant Health Website
 
 ## Time Taken - about 3.5 hours
 
